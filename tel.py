@@ -5,9 +5,9 @@ import csv
 import random
 import time
 
-api_id = 1315298
+api_id = -----
 
-api_hash = 'd9b222c6943d39f5640f24109461b556'
+api_hash = '--------'
 
 phone = '+917776808085'
 
