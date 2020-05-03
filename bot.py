@@ -5,7 +5,7 @@ import time
 import sys
 
 
-updater = Updater(token='1138454208:AAEwugvq0GOt9KLXL1qilsMFEzSiu2rRG0s', use_context=True)
+updater = Updater(token='token', use_context=True)
 dispatcher = updater.dispatcher
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
